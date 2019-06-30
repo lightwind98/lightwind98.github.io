@@ -207,12 +207,12 @@ addtoany:
 # Comments System
 # ---------------
 disqus:
-  enable: true
+  enable: false
   shortname: lightwind98
   
-# laibili:
-  # enable: false
-  # uid:
+laibili:
+  enable: true
+  uid: MTAyMC80NDk5MC8yMTUxMA==
 
 # gitment
   # enable: false
